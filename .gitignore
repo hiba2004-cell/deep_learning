@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 .venv
+=======
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# *
+/etc
+/Include
+/Lib
+/share
+/Scripts
+/pyvenv.cfg
+/model.tflite
+
+/MCP/node_modules
+>>>>>>> 87847b4d6576bf833135c03c7bed89d8d7344338
